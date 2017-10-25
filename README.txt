@@ -27,6 +27,7 @@ Configure Mailchimp API Key in admin/config/mailchimp_service/mailchimpservicead
 <h3> How to use API:</h3>
 
 Example : 
+
 <code>
     // Include service file in your file.
     use Drupal\mailchimp_service\MailchimpService;
