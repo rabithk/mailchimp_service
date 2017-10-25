@@ -10,7 +10,7 @@ To install from this repository:
 
 Clone the repository into your Drupal site modules directory:
 
-<code>git clone git@github.com:mailchimp_service/mailchimp_service.git /modules/mailchimp_service </code>
+<code>git clone https://github.com/rabithk/mailchimp_service.git /modules/mailchimp_service </code>
 
 This module require <code>drewm/mailchimp-api": "^2.2</code>
 
