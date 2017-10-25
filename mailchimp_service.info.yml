@@ -1,0 +1,5 @@
+name: MailChimp Service
+type: module
+description: MailChimp email service integration
+core: 8.x
+package: MailChimp

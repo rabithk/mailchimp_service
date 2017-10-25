@@ -1,0 +1,11 @@
+
+mailchimp_service.mailchimp_service_admin_form:
+  path: '/admin/config/mailchimp_service/mailchimpserviceadmin'
+  defaults:
+    _form: '\Drupal\mailchimp_service\Form\MailchimpServiceAdminForm'
+    _title: 'Mailchimp Service Admin Form'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+

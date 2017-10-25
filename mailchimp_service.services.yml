@@ -1,0 +1,5 @@
+services:
+  mailchimp.services:
+    class: Drupal\mailchimp_service\MailchimpService
+    arguments: []
+
